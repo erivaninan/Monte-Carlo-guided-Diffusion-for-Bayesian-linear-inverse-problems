@@ -68,6 +68,6 @@ This implementation focuses on:
 ```{r, eval=FALSE}
 # Repository tree
 
-├── noiseless_implementation.ipynb        # Main notebook with implementation and experiments
-├── 19-Monte-Carlo-Guided-Diffusions.pdf  # Original paper
-└── README.md                             # Project documentation and references
+├── noiseless_implementation.ipynb                                                     # Main notebook with implementation and experiments
+├── Monte_Carlo_guided_Diffusion_for_Bayesian_linear_inverse_problems.pdf              # Original paper
+└── README.md                                                                          # Project documentation and references
