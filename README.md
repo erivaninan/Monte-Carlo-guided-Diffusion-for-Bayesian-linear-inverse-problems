@@ -61,10 +61,7 @@ This implementation focuses on:
 
 ### 📚 References
 
-- Chadebec, G., El-Laham, Y. J., & Moulines, E. (2023). Monte Carlo guided Diffusion for Bayesian linear inverse problems. arXiv:2305.19680.
-- Sohl-Dickstein et al. (2015). Deep unsupervised learning using nonequilibrium thermodynamics.
-- Song et al. (2021). Score-based generative modeling through stochastic differential equations.
-
+- Chadebec, G., El-Laham, Y. J., & Moulines, E. (2023). Monte Carlo guided Diffusion for Bayesian linear inverse problems. arXiv:2308.07983.
 
 ### ⚙️ Repository Structure  
 
