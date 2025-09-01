@@ -61,7 +61,7 @@ This implementation focuses on:
 
 ### 📚 References
 
-- Chadebec, G., El-Laham, Y. J., & Moulines, E. (2023). Monte Carlo guided Diffusion for Bayesian linear inverse problems. arXiv:2308.07983.
+- Cardoso G., El Idrissi Y.J., Le Corff S. and Moulines E. (2023). Monte Carlo guided Diffusion for Bayesian linear inverse problems. arXiv:2308.07983.
 
 ### ⚙️ Repository Structure  
 
